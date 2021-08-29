@@ -9,6 +9,10 @@ Frontend url: `https://user-profile-demo-frontend.netlify.app/public`
 Be sure to add `npm run build` build command for frontend app
 <img src="docs/screenshots/netlify_dashboard_build_command.png" alt="Netlify build command" width="320">
 
+### Troubleshooting
+Blank react page<br>
+  `https://answers.netlify.com/t/site-is-live-but-sill-blank-screen-react-app/12738`
+
 ## npm basics
 ```
 # At top level of repo

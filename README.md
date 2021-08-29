@@ -9,6 +9,14 @@ Frontend url: `https://user-profile-demo-frontend.netlify.app/public`
 Be sure to add `npm run build` build command for frontend app
 <img src="docs/screenshots/netlify_dashboard_build_command.png" alt="Netlify build command" width="320">
 
+## npm basics
+```
+# At top level of repo
+cd app
+npm install -g create-react-app
+create-react-app frontend
+```
+
 ## References
 Netlify guide<br>
   `https://dev.to/ebereplenty/full-stack-authentication-and-hosting-nodejs-reactjs-heroku-netlify-3fcm`

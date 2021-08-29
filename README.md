@@ -1,7 +1,9 @@
 # User profile fullstack demo
 
 ## Details
-Backend url: `https://awesome-kilby-559e77.netlify.app/`
+Backend url: `https://user-profile-demo-backend.netlify.app`
+
+Frontend url: `https://user-profile-demo-frontend.netlify.app/public`
 
 ## References
 Netlify guide<br>

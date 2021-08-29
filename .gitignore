@@ -2,3 +2,6 @@ app/backend/.idea
 .idea
 app/frontend_
 app/frontend_auto
+
+# Local Netlify folder
+.netlify

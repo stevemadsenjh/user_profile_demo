@@ -6,6 +6,9 @@ Backend url: `https://user-profile-demo-backend.netlify.app`
 Frontend url: `https://user-profile-demo-frontend.netlify.app/public`
 
 ## Netlify details
+Run this in terminal<br>
+  `$ npm install netlify-cli -g`
+
 Be sure to add `npm run build` build command for frontend app
 <img src="docs/screenshots/netlify_dashboard_build_command.png" alt="Netlify build command" width="320">
 
